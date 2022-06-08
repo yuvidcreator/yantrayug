@@ -12,7 +12,6 @@ const Home: NextPage = () => {
       <meta http-equiv='expires' content='0' />
       <meta http-equiv='pragma' content='no-cache' />
 
-
       <title>Yantrayug Hero Hub</title>
       <meta name="referrer" content="no-referrer-when-downgrade" />
       <meta name="description" content="Get all Types of Hero and Honda all Spare Parts in Pune, Pimpri Chinchwad. We Deal in Bulk quntity also. For more details contact us." />
