@@ -13,11 +13,11 @@ const Home: NextPage = () => {
       <meta http-equiv='pragma' content='no-cache' />
 
 
-      <title>Create Next App</title>
+      <title>Yantrayug Hero Hub</title>
       <meta name="referrer" content="no-referrer-when-downgrade" />
       <meta name="description" content="Get all Types of Hero and Honda all Spare Parts in Pune, Pimpri Chinchwad. We Deal in Bulk quntity also. For more details contact us." />
       <meta name="keywords" content="Hero Bikes Auto Parts, Exide Batteries, Car and Bikes Auto Parts, Auto parts in Bulk order, Yantrayug Automobile, Best Bikes Auto parts dealer in Pimpri Chinchwad, Hero Bike Auto parts dealer in Pune" />
-      <meta name="author" content="Shri Balaji Institute Pune" />
+      <meta name="author" content="Yantrayug Hero Hub" />
       <meta name="robots" content="all" />
       <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
       <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -28,22 +28,22 @@ const Home: NextPage = () => {
 
       {/* Open Graph Metadata */}
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="Distance Education by Shri Balaji Institute Pune (SBIP)" />
-      <meta property="og:description" content="We stand to provide quality educational services through strategic collaboration with internationally accredited institutions. We are committed to deliver best distance education and professional educational consultancy services in India." />
+      <meta property="og:title" content="Yantrayug Hero Hub" />
+      <meta property="og:description" content="Get all Types of Hero and Honda all Spare Parts in Pune, Pimpri Chinchwad. We Deal in Bulk quntity also. For more details contact us." />
       <meta property="og:image" content="https://yantrayug.com/images/bannr.png" />
-      <meta property="og:site_name" content="Shri Balaji Institute Pune" />
+      <meta property="og:site_name" content="Yantrayug Hero Hub" />
       <meta property="og:url" content="https://yantrayug.com/" />
-      <meta property="article:publisher" content="https://www.facebook.com/sbipdistanceeducation" />
-      <meta property="article:published_time" content="2021-03-08" />
+      <meta property="article:publisher" content="https://www.facebook.com/yantrayug.automobiles/" />
+      <meta property="article:published_time" content="2022-06-08" />
 
       {/* Twitter Card Metadata */}
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:url" content="https://yantrayug.com/" />
-      <meta name="twitter:title" content="Distance Education by Shri Balaji Institute Pune (SBIP)" />
-      <meta name="twitter:description" content="We stand to provide quality educational services through strategic collaboration with internationally accredited institutions. We are committed to deliver best distance education and professional educational consultancy services in India." />
+      <meta name="twitter:title" content="Yantrayug Hero Hub" />
+      <meta name="twitter:description" content="Get all Types of Hero and Honda all Spare Parts in Pune, Pimpri Chinchwad. We Deal in Bulk quntity also. For more details contact us." />
       <meta name="twitter:image:src" content="https://yantrayug.com/images/bannr.png" />
-      <meta name="twitter:site" content="@distanceedusbip" />
-      <meta name="twitter:creator" content="@distanceedusbip" />
+      <meta name="twitter:site" content="@yantrayug" />
+      <meta name="twitter:creator" content="@yantrayug" />
 
       <link rel="icon" href="/favicon.ico" />
       </Head>
