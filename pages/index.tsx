@@ -65,7 +65,7 @@ const Home: NextPage = () => {
         <div className="p-4">
           <div className="mt-6 flex max-w-4xl flex-wrap items-center justify-around sm:w-full">
             <a
-              href="#"
+              href="/"
               className="mt-6 w-96 rounded-xl border p-6 text-left hover:text-blue-600 focus:text-blue-600 hover:border-blue-600"
             >
               <h3 className="text-xl font-bold">Documentation &rarr;</h3>
@@ -75,7 +75,7 @@ const Home: NextPage = () => {
             </a>
 
             <a
-              href="#"
+              href="https://wa.me/919890687777"
               className="mt-6 w-96 rounded-xl border p-6 text-left hover:text-blue-600 focus:text-blue-600 hover:border-blue-600"
             >
               <h3 className="text-xl font-bold">Learn &rarr;</h3>
@@ -85,12 +85,12 @@ const Home: NextPage = () => {
             </a>
 
             <a
-              href="#"
+              href="https://goo.gl/maps/1gkcTdC2t44Busf37/"
               className="mt-6 w-96 rounded-xl border p-6 text-left hover:text-blue-600 focus:text-blue-600 hover:border-blue-600"
             >
               <h3 className="text-xl font-bold">Locate us &rarr;</h3>
               <p className="mt-4 text-md">
-                Discover and deploy boilerplate example Next.js projects.
+                Discover our store and get in touch with us.
               </p>
             </a>
 
